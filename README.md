@@ -93,4 +93,4 @@ curl http://localhost:8080/api/tcp?str=jHipster&size=50000&padStr=
 [TcpAppenderResource.java#L23-L26](https://github.com/anjia0532/tcpappender/blob/master/src/main/java/com/anjia/tcpappender/web/rest/TcpAppenderResource.java#L23-L26)
 
 
-![](http://ww1.sinaimg.cn/large/afaffa71ly1fhkyto6z4ej21300lkmz6.jpg)
+![](https://raw.githubusercontent.com/anjia0532/tcpappender/master/snipaste20170715_230147.png)
